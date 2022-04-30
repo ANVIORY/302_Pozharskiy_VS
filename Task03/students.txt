@@ -1,0 +1,4 @@
+1 Vladimir Zelenskiy FMiIT 3 2
+2 Vladimir Zhirinovsky FMiIT 3 2
+3 Vladimir Putin FMiIT 3 2
+4 Valentin Pozharskiy FMiIT 3 2
